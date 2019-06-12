@@ -130,7 +130,7 @@ namespace XRBIT {
     //% color="#0fbc11"
     //% Step.min=0 Step.max=20
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=9
-    export function SetServoBotSubstep(direction: SubtepMovement, Step: number): void {
+    export function SetServoBotSubstep(direction: SubtepMovement): void {
         let buf1 = pins.createBuffer(2);
         let buf2 = pins.createBuffer(2);
         buf1[0] = 0xFF;
