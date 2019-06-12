@@ -1,5 +1,5 @@
 {
-  "XRBIT-LittleBlueMan.SetServoAngle|block": "设置舵机|编号 %Num|角度 %Angle",
+  "XRBIT.SetServoAngle|block": "设置舵机|编号 %Num|角度 %Angle",
   "XRBIT.SetServoBot|block": "设置舵机机器人|动作为 %direction",
   "XRBIT.SetServoBotSubstep|block": "设置舵机机器人|分步动作 %direction",
   
