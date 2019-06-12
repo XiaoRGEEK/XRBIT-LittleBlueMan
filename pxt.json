@@ -1,0 +1,20 @@
+{
+    "name": "XRBIT-LittleBlueMan",
+    "version": "0.0.1",
+    "description": "XRBIT DRIVER BOARD FOR MICROBIT",
+    "dependencies": {
+        "core": "*",
+        "bluetooth": "*"
+    },
+    "files": [
+        "README.md",
+        "XRBIT-LittleBlueMan.ts",
+        "_locales/zh/XRBIT-strings.json",
+        "_locales/zh-hant/XRBIT-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "license": "MIT"
+}
