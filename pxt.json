@@ -9,8 +9,8 @@
     "files": [
         "README.md",
         "XRBIT-LittleBlueMan.ts",
-        "_locales/zh/XRBIT-strings.json",
-        "_locales/zh-hant/XRBIT-strings.json"
+        "_locales/zh/XRBIT-LittleBlueMan-strings.json",
+        "_locales/zh-hant/XRBIT-LittleBlueMan-strings.json"
     ],
     "testFiles": [
         "test.ts"
